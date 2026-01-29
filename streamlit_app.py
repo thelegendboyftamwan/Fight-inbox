@@ -996,7 +996,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂YKTI RAWAT</h1>
+        <h1>MR ZAIID X AMWAN</h1>
         <p>PREMIUM  E2EE OFFLINE CONVO SYSTEM</p>
     </div>
     """, unsafe_allow_html=True)
