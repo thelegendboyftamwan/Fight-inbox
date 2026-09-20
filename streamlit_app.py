@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="MR ZAIID X AMWAN",
+    page_title="😈LORD AMAN😈",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -996,8 +996,8 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>MR ZAIID X AMWAN</h1>
-        <p>PREMIUM  E2EE OFFLINE CONVO SYSTEM</p>
+        <h1>💀LORD AMAN💀</h1>
+        <p>LORD AMAN E2EE OFFLINE CONVO SYSTEM</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -1052,7 +1052,7 @@ def main_app():
     st.markdown("""
     <div class="main-header">
         <h1>🦂 YKTI RAWAT</h1>
-        <p>PREMIUM FACEBOOK E2EE  CONVO SERVER SYSTEM </p>
+        <p>LORD AMAN FACEBOOK E2EE  CONVO SERVER SYSTEM </p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -1191,4 +1191,4 @@ if not st.session_state.logged_in:
 else:
     main_app()
 
-st.markdown('<div class="footer">MADE WITH ❤️ BY YKTI RAWAT | © 2026</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">TH3 L3G3LND BY 4M9N DON 😈 | © 2026</div>', unsafe_allow_html=True)
