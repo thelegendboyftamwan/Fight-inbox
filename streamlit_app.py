@@ -996,7 +996,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>💀LORD AMAN💀</h1>
+        <h1>LORD AMAN</h1>
         <p>LORD AMAN E2EE OFFLINE CONVO SYSTEM</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1051,7 +1051,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>🦂 YKTI RAWAT</h1>
+        <h1>LORD AMAN</h1>
         <p>LORD AMAN FACEBOOK E2EE  CONVO SERVER SYSTEM </p>
     </div>
     """, unsafe_allow_html=True)
